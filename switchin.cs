@@ -8,6 +8,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            //switch case
             int i = 15;
 
             switch (i)
