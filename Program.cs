@@ -6,7 +6,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            //Printing less than values in loop
+            //Printing less than values in for loop
             int x;
             for(x=10;x>0;x--)
             {
